@@ -18,3 +18,5 @@ const infoList = [
 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZW1iZXJJRCI6ImFxZGVtbzNAYXFkZW1vLnNhbGVzYWNjIiwiZXhwIjoxNjE2ODA5NzM5MzE3LCJpYXQiOjE2MTY3MjMzMzkzMTd9.FBbfOkP0BXnQGNgRaBtIXLg6jIZa5QgrIgHliXW3isQ',
 },
 ]
+
+return infoList
